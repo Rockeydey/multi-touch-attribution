@@ -1,0 +1,13 @@
+Dataset:
+https://www.kaggle.com/datasets/vivekparasharr/multi-touch-attribution
+
+https://github.com/AjNavneet/MultiTouch-Attribution-Marketing-Spend-Optimization
+
+https://github.com/myriamnavas/markov-marketing-attribution-model
+
+https://github.com/zhouyonglong/pychattr
+
+
+https://github.com/clairesarraille/parabolic_attribution
+
+https://github.com/zyd5csi8/mta
